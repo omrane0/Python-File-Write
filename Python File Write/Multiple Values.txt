@@ -1,0 +1,11 @@
+quantity = 3
+itemno = 567
+price = 49
+myorder = "I want {} pieces of item number {} for {:.2f} dollars."
+print(myorder.format(quantity, itemno, price))
+
+
+
+
+​
+I want 3 pieces of item number 567 for 49.00 dollars.

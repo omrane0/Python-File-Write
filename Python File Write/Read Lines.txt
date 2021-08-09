@@ -1,0 +1,6 @@
+f = open("demofile.txt", "r")
+
+print(f.readline())
+
+C:\Users\My Name>python demo_file_readline.py
+Hello! Welcome to demofile.txt

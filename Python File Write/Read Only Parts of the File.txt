@@ -1,0 +1,7 @@
+f = open("demofile.txt", "r")
+
+print(f.read(5))
+
+
+C:\Users\My Name>python demo_file_open2.py
+Hello

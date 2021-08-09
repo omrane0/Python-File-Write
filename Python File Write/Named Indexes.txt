@@ -1,0 +1,5 @@
+myorder = "I have a {carname}, it is a {model}."
+print(myorder.format(carname = "Ford", model = "Mustang"))
+
+
+I have a Ford, it is a Mustang.
